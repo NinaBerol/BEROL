@@ -1,0 +1,17 @@
+
+body{
+	background-image: url('bg.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	justify-content: center;
+	text-align: center;
+
+
+	
+}
+
+.myself{
+	width: 300px;
+	clip-path: circle();
+}

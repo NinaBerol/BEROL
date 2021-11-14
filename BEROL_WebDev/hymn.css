@@ -1,0 +1,25 @@
+body{
+	background-image: url('bg.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	text-align: center; 
+}
+
+
+p{
+	font-size:140%;
+	color:#ffffff;
+}
+.p-color{
+	color:#940101;
+	
+}
+.p-color2{
+	color:#cf8d15;
+	
+}
+.p-color3{
+	color:#172da6;
+	
+}
